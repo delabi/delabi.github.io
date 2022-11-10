@@ -135,17 +135,17 @@ export const info = {
       source: "",
       image: mock3,
     },
-    {
-      title: "Masifa",
-      live: "",
-      source: "",
-      image: mock4,
-    },
-    {
-      title: "BishaBisha",
-      live: "",
-      source: "",
-      image: mock5,
-    },
+    // {
+    //   title: "Masifa",
+    //   live: "",
+    //   source: "",
+    //   image: mock4,
+    // },
+    // {
+    //   title: "BishaBisha",
+    //   live: "",
+    //   source: "",
+    //   image: mock5,
+    // },
   ],
 };
